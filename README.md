@@ -1,4 +1,4 @@
-# Google Search API Downloader
+# Google Search Image Downloader
 
 ## Overview
 
