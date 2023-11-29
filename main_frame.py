@@ -109,7 +109,7 @@ class MyTkinterWindow:
         self.error_label.config(state=tk.DISABLED)
     
         # Advanced half
-        self.google_search = GoogleCustomSearch("AIzaSyD7H_6WYpe-HGB4OPIBQyHA9l7qUbu8p-U", "77d21d1239c0342fd")
+        self.google_search = GoogleCustomSearch("YOUR-API-KEY", "YOUR-SEARCH-ENGINE-ID")
 
         self.infoLabel = tk.Label(left_frame, text="ADVANCED SETTINGS")
         self.infoLabel.grid(row=4, column=0, padx=10, pady=10, sticky='nsew')
