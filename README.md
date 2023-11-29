@@ -37,9 +37,9 @@ The **Google Search API Downloader** is a Python-based project that leverages th
 
 ### Usage
 1. **Update the API key and search engine id on main_frame.py:112**
-3. **Run the application:**
+2. **Run the application:**
    ```
    python main_frame.py
-4. **Use the user interface to input search criteria and customize advanced search options.**
-5. **Click the "Download" button to initiate the search and download process.**
-6. **Monitor the progress bar and view updates in the output message box.**
+3. **Use the user interface to input search criteria and customize advanced search options.**
+4. **Click the "Download" button to initiate the search and download process.**
+5. **Monitor the progress bar and view updates in the output message box.**
